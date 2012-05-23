@@ -1,4 +1,4 @@
 project1
 ========
 
-project1 description
+hello . this is project 1 . contact me if you have problem . my email address is trongsau96@gmail.com
